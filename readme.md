@@ -5,3 +5,5 @@
 1. git clone https://github.com/cweijan/windows_service.git
 2. 右键以管理员运行addStartupService.bat
 3. 按序输入服务名和服务执行程序
+
+- 删除服务: sc detele <服务名>
